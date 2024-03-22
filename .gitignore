@@ -4,7 +4,7 @@
 
 *.vcxproj
 *.vcxproj.filters
-
+*.vcxproj.user
 
 ### C ###
 # Prerequisites
